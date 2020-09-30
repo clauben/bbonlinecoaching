@@ -18,11 +18,25 @@ function Pricing() {
             <Link to='/sign-up' className='pricing__container-card'>
               <div className='pricing__container-cardInfo'>
                 <div className='icon'>
+                  <FaFire />
+                </div>
+                <h4>Actie</h4>
+                <p>Eerste Maand</p>
+                <h3>Online Coaching</h3>
+                <h4>€50</h4>
+                <ul className='pricing__container-features'>
+                <li>Beperkt aantal plaatsen</li>
+                </ul>
+              </div>
+            </Link>
+            <Link to='/sign-up' className='pricing__container-card'>
+              <div className='pricing__container-cardInfo'>
+                <div className='icon'>
                   <BsXDiamondFill />
                 </div>
                 <h3>Online Coaching</h3>
-                <h4>€85</h4>
                 <p>per maand</p>
+                <h4>€85</h4>
                 <ul className='pricing__container-features'>
                   <li>* Wekelijks Contact</li>
                   <li></li>

@@ -39,7 +39,7 @@ function Footer() {
           Coaching is unlocking a person's potential to maximize their growth.
         </p>
         <p className="footer-subscription-text">
-          Geef kort aan waar ik jou mee kunnen helpen. Je ontvangt binnen 24 uur
+          Geef kort aan waar ik jou mee kan helpen. Je ontvangt binnen 24 uur
           persoonlijk bericht en een uitgebreid intake formulier.
         </p>
         <div className="input-areas">
